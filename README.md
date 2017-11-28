@@ -1,18 +1,26 @@
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://beta.webcomponents.org/element/PolymerElements/paper-dropdown-menu)
 [![Build status](https://travis-ci.org/PolymerElements/paper-dropdown-menu.svg?branch=master)](https://travis-ci.org/PolymerElements/paper-dropdown-menu)
 
-## &lt;paper-dropdown-menu&gt;
+## &lt;paper-dropdown-menu-aligned&gt;
 
 Material design: [Dropdown menus](https://www.google.com/design/spec/components/buttons.html#buttons-dropdown-buttons)
 
->> This has the difference of the dropdown taking the same width as the trigger and positioned below so the trigger
-    is always visible
+> **This has the difference of the dropdown taking the same width as the trigger and positioned below so the trigger
+    is always visible**
+    
+### paper-dropdown-menu
+ ![screenshot paper-dropdown-menu](https://i.imgur.com/98LK4xD.png) 
+ 
+### paper-dropdown-menu-aligned
+ ![screenshot paper-dropdown-menu-aligned](https://i.imgur.com/VCwJVee.png)    
 
-
+    
+    
 `paper-dropdown-menu-aligned` is similar to a native browser select element.
 `paper-dropdown-menu-aligned` works with selectable content.
 
 <!---
+
 ```
 <custom-element-demo>
   <template>
@@ -44,8 +52,5 @@ Material design: [Dropdown menus](https://www.google.com/design/spec/components/
     <paper-item>carcharodontosaurus</paper-item>
     <paper-item>diplodocus</paper-item>
   </paper-listbox>
-</paper-dropdown-menu>
+</paper-dropdown-menu-aligned>
 ```
-
-### Changes in 2.0
-- `paper-menu-button 2.0` depends on `neon-animation 2.0`, which doesn't import the Web Animations polyfill, so you'll have to import it ([see example](demo/index.html))

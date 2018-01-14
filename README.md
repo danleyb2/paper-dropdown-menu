@@ -9,7 +9,8 @@ Material design: [Dropdown menus](https://www.google.com/design/spec/components/
     is always visible**
     
 ### paper-dropdown-menu
- ![screenshot paper-dropdown-menu](https://i.imgur.com/98LK4xD.png) 
+ ![screenshot paper-dropdown-menu](https://i.imgur.com/98LK4xD.png) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdanleyb2%2Fpaper-dropdown-menu-aligned.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdanleyb2%2Fpaper-dropdown-menu-aligned?ref=badge_shield)
+
  
 ### paper-dropdown-menu-aligned
  ![screenshot paper-dropdown-menu-aligned](https://i.imgur.com/VCwJVee.png)    
@@ -54,3 +55,7 @@ Material design: [Dropdown menus](https://www.google.com/design/spec/components/
   </paper-listbox>
 </paper-dropdown-menu-aligned>
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdanleyb2%2Fpaper-dropdown-menu-aligned.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdanleyb2%2Fpaper-dropdown-menu-aligned?ref=badge_large)
